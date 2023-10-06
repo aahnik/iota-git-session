@@ -1,8 +1,6 @@
 # iota-git-session
 Git + GitHub tutorial by IOTA Club 
 
-Submit a pr after adding a file with name "yourRollNo.txt" containing your name inside it.
+Submit a pr after adding a file with name "yourRollNo.md" containing content as shown in "profile.md"
 
-Example: S20220010001.txt (file name)
-Content: Aahnik Daw
 
